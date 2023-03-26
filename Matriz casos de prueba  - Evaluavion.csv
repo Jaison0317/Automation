@@ -1,0 +1,19 @@
+﻿Resumen,Descripción,Pre-Condicion,Paso a paso,Resultado Esperado,Incidencias vinculadas,Responsable,Prioridad,Escenario CP
+Ingresar credenciales,Debe permitir iniciar sesion con el usuario y contrasena del sistema,"Acceso al sistema, usuario y contrasena","
+1. Ingresar al sistema
+2. Ingresar usuario y contrasena
+3. Hacer clic en Login",Permite ingresar al sistema y muestra que la sesion fue iniciada,N/A,Jaison Cabral,Media,
+Ingresar credenciales incorrectas,NO debe permitir ingresar al sistema con las credenciales invalidas,"Acceso al sistema, usuario y contrasena","
+1. Ingresar al sistema
+2. Ingresar usuario y contrasena erroneos
+3. Hacer clic en Login",No permite ingresar al sistema y muestra un mensaje de alerta,N/A,Jaison Cabral,Media,
+Validar mensaje de credenciales incorrectas,Debe mostrar un mensaje informativo indicando que las credenciales estan incorrectas,"Acceso al sistema, usuario y contrasena","
+1. Ingresar al sistema
+2. Ingresar usuario y contrasena erroneos
+3. Hacer clic en Login",Se visualiza el mensaje de alerta de login incorrecto,N/A,Jaison Cabral,Media,
+Seleccionar opcion en DropdownList,Se debe poder seleccionar las opciones disponibles en el dropdown,Acceso al sistema,"1. Ingresar al sistema
+2. Seleccioanr opciones ",Se visualizan las opciones disponibles en el dropdown,N/A,Jaison Cabral,Media,
+Ingresar numeros aleatorios en campo numerico,Debe ingresar numeros aleatorios en el campo numerico,Acceso al sistema,"1. Ingresar al sistema
+2. Ingresar numeros aleatorios",Permite ingresar numeros aleatorios en el campo numerico,N/A,Jaison Cabral,Media,
+Visualizar informacion en componentes hover,Debe presentar las informaciones de los perfiles una vez se le coloque el mouse encima de la imagen,Acceso al sistema,"1. Ingresar al sistema
+2. Colocar mouse encima de la imagen",Muestra la informacion de las imagenes en el sistema,N/A,Jaison Cabral,Media,
