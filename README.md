@@ -2,22 +2,25 @@
 
 Download zip File
 
+Pre-conditions
 1. Install NodeJS
 
 2. Install Cypress
 
-3. Run Cypress
+----------------------
 
-4. Excute the following command:
-node_modules/.bin/cypress open
+1. Run Cypress
+
+1.1. Excute the following command:
+  node_modules/.bin/cypress open
 
 or
 
-npx cypress open
+  npx cypress open
 
 
-5. Execute the test suite
+2. Execute the test suite
 npx cypress run --env SUITE=smoke
 
-6. When you want execute with different screen size
+3. When you want execute with different screen size
 screenSize : () => cy.viewport('iphone-6+')
