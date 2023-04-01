@@ -1,7 +1,7 @@
 # Automation Test
 
 How clone the repo?
-- git clone [repository] develop
+- git clone branch[repository] 
 
 
 
