@@ -12,7 +12,6 @@ describe("Evaluacion Automatizacion", () => {
 
     it("Random numbers", () =>{
         homePage.inputNumber("#number")
-       // cy.screenshot()
     })
 })
 
