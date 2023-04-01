@@ -1,5 +1,10 @@
 # Automation Test
 
+How clone the repo?
+- git clone [repository] develop
+
+
+
 Download zip File
 
 Pre-conditions
@@ -24,3 +29,6 @@ npx cypress run --env SUITE=smoke
 
 3. When you want execute with different screen size
 screenSize : () => cy.viewport('iphone-6+')
+
+
+
