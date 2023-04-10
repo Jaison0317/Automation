@@ -3,7 +3,7 @@
 How clone the repo?
 - git clone branch[repository] 
 
-
+or
 
 Download zip File
 
